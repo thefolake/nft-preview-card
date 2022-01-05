@@ -41,8 +41,9 @@ body {
     text-align: center;
 }
 
-.card:hover .icon-view {
+.image:hover .icon-view {
     opacity: 1;
+    cursor: pointer;
 }
 
 h3 {
